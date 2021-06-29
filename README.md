@@ -1,16 +1,13 @@
-### Hi there 👋
+# Chess game in C++ using the SFML graphic library
 
-<!--
-**michaelsh1/michaelsh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is an offline chess game in C++, that incorporates an AI as well as an offline game to play with a friend.
 
-Here are some ideas to get you started:
+Some things to note:
+1. the AI is upgradeable and can be easily modified to match whatever experiment you might have :)
+2. this is my first ever project in c++ as well as in coding in general, so the code might be suboptimal and a little buggy
+3. ENJOY!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ps: if you are trying to make a chess game of your own and would like to get some ideas/tips from my progress, you are more than welcomed to contact me at:
+michaelsh2002@gmail.com. 
+I think that my way of generating moves is pretty intuative and this was the part that was most challenging.
